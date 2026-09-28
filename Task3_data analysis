@@ -1,124 +1,28 @@
-post_id,title,category,score,num_comments,author
-49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,186,84,davidcollantes
-49876760,Show HN: Hntui – A TUI for Hacker News,worldnews,74,35,ahmd-sh
-49875142,"37,500 border drawings: a map of the world as people remember it",worldnews,105,25,nicocarsui
-49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",technology,43,10,seamus_c
-49870367,When did Google get so weird?,technology,1560,836,sancho-panza
-49872883,Nissan's third generation e-POWER powertrain,technology,118,248,mroche
-49879032,Jensen Huang says AI distillation is 'competition.',technology,13,3,cramer4next
-49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,147,56,teleforce
-49870295,Self-Hosting on the Dark Web,technology,294,101,mooreds
-49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,130,64,evakhoury
-49875308,Show HN: Free alternative to graphics design giants,entertainment,26,6,sia_xi
-49852238,Functional Mechanical Sympathy [video],entertainment,57,11,surprisetalk
-49868404,Don't couple your Go code to GitHub,technology,291,152,birdculture
-49844629,The state of SIMD in Rust in 2026,worldnews,187,45,verdagon
-49877813,Has Violence Against Teachers Become Accepted by Society?,technology,94,146,obscurette
-49879000,"MongoDB CEO resigns ""effective immediately"" to join Meta, stock drops 20%",science,7,2,diek
-49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,worldnews,295,118,safaelmali
-49851795,Deterministic Concurrency [video],entertainment,71,5,surprisetalk
-49849409,Writing Efficient C++ Code (2013),technology,170,137,ibobev
-49869142,"Oral history of John Chowning, inventor of FM synthesis [video]",entertainment,85,30,Rochus
-49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,69,15,FKJ
-49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,147,73,theanonymousone
-49853476,The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers,entertainment,98,13,AareyBaba
-49877374,OpenAI Pauses Training Its Most Powerful Models After Agents Target Government,technology,7,3,chunky1994
-49859759,Video CDs Break Windows Explorer,sports,138,51,ClydeN
-49857281,There is more to code review than (automatable) detection,technology,155,104,utiiiD
-49875347,"Big AI's content problem: Take the work, keep the money",technology,23,2,samizdis
-49859982,Faster prompt lookup drafting in llama.cpp,science,81,12,pptadversary
-49871992,European industry is doing better than you may think,worldnews,39,7,andsoitis
-49845114,C's Flexible Integer Sizes Were Not a Design Mistake,entertainment,104,160,ibobev
-49867775,Show HN: TinyAIArena watch AI agents battle it out,technology,115,45,hp6
-49876158,Rails World 2026 Closing Keynote – Aaron Patterson [video],technology,8,6,sinnsro
-49875411,SpaceX's Starship launching to orbit for first time ever today,science,259,237,geox
-49867486,The Normalization of Inexplicable Failures,technology,272,117,pxx
-49875148,AI companies in race to demonstrate their model most threatening to humanity,technology,398,330,ljewalsh
-49867067,On caring for user data: NeoVim caused Vim undo files to be deleted,technology,380,338,jandeboevrie
-49872200,Cambrian Explosion of AI,technology,14,17,debarshri
-49849723,"Finally, A True Blue Rose Exists",sports,95,38,bookofjoe
-49876883,"Una watch review: A modular, repairable GPS watch is a good first step",technology,7,0,poisonborz
-49845172,Show HN: Jev Plays Pokémon Red,sports,276,121,pancomplex
-49870377,Luarocks.org remote code execution exploit,technology,28,4,cupcakerob
-49866534,Ten lines of code that changed my world,worldnews,136,43,dimonomid
-49844663,ASML says it sold 'absolutely nothing' in Europe in 2026,worldnews,397,867,MC995
-49858513,Show HN: Reladraw – A diagram language where you decide where to place things,science,398,118,jpwalsh234
-49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",worldnews,16,6,jvanveen
-49872468,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,29,2,daniel_iversen
-49868535,"The accidental history of 3000, 8080, and other port numbers",entertainment,13,1,smarmelling
-49860074,Welcome to the Medical Clinic at the Interplanetary Relay Station,science,83,15,bucket2015
-49852905,Promising discoveries about the potential for life on one of Saturn’s icy moons,sports,98,71,geox
-49855315,Breaking Up with Google Play: Why Conversations Is Now Free,sports,701,294,ezst
-49832768,A searchable library of forgotten public-domain film clips from 1915 onward,worldnews,211,27,momentmaker
-49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",worldnews,455,299,rbanffy
-49875895,Congressman Cohen Introduces Articles of Impeachment Against President Trump,worldnews,40,3,hkhn
-49854875,How to keep enjoying programming in a world of LLMs,worldnews,337,338,signa11
-49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,75,14,SouthWestAtlas
-49817469,Fixing the Portobello Police Station Clock,worldnews,548,116,avidly
-49872522,"As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",worldnews,138,148,mooreds
-49839438,"Biology might not be quantum, but its math is quantumlike",science,121,60,pseudolus
-49845977,U.S. appeals court upholds designation of Anthropic as supply chain risk,worldnews,497,884,cramer4next
-49876373,The smart home graveyard is getting crowded,entertainment,46,50,CrypticShift
-49857729,Drawgent: Coding agent on a live Excalidraw canvas,science,175,46,parasitid
-49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,421,106,pseudolus
-49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,87,25,Teever
-49872334,Klassik Revives the KDE 3 Desktop on Modern Plasma 6,sports,13,13,turrini
-49850781,Lab on a Contact Lens Can Measure Stress Through Serotonin,science,70,26,marc__1
-49829472,Fourier Analysis: Drawing Llamas with Circles,sports,78,11,cebert
-49869904,Show HN: A bookshelf of rare company documents and out-of-print tech books,sports,10,0,miletus
-49852143,How one Twitch chat message became code execution on a streamer’s PC,entertainment,66,30,tau255
-49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,6,1,andreespirela
-49834040,The Rise of Audio AR (2024),entertainment,34,21,dbreunig
-49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,40,12,kdautaj
-49857442,Plunging test scores are a slow-moving catastrophe,sports,205,401,vinni2
-49842409,I wrote a ray tracer in Brainfuck,science,92,21,epestr
-49862892,Casita: A content-addressed store for source code and build artifact,science,16,2,domenkozar
-49856665,OpenAI bots meddled with multiple US Government agency sites,worldnews,131,193,Betelbuddy
-49841115,Entering and Breaking the Avast Antivirus Sandbox Part 2,entertainment,115,32,safateam
-49870654,Show HN: Jevdit – a social network moderated by Jev,entertainment,11,1,TN1ck
-49873072,YouTube has a Propaganda Problem [video],sports,11,0,justhw
-49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton
-49836979,Dutch designer made DE9: Closer to the Edit into a playable web-based instrument,sports,27,3,ChrisArchitect
-49820134,Claude discovers a novel enzyme system with CRISPR-like repeats,entertainment,780,802,raahelb
-49838040,The Murky History of Soviet-Born Tetris,entertainment,109,37,EA-3167
-49824642,Calculating atmospheric drag on satellites for a Cubesat [pdf],science,37,8,walrus01
-49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam
-49872766,"Musk, the Movie",entertainment,167,122,yablak
-49823582,Linux support is coming to Snapdragon X2 series,science,624,271,aaronday
-49823490,A new world airport and its baggage,worldnews,74,7,firloop
-49874940,Deshittification Part 2: Bypassing the App Store Gatekeeper,entertainment,6,0,nizarmah
-49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,worldnews,86,28,andrearitossa
-49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,worldnews,421,141,sidharthkmenon
-49865106,I Posed as a Problem Gambler. DraftKings Made Me a VIP,science,74,24,theblazehen
-49847247,Snap Wants to be a State Actor??–Kansas v. Snap,worldnews,50,16,hn_acker
-49870928,EV Sales Are Booming in Europe with Gasoline at $10 a Gallon,worldnews,73,131,blondie9x
-49849907,Teaching a World Model to Play Pokemon,worldnews,24,18,stmonty
-49868710,"Show HN: Gat – Version large files with Git, without an LFS server",sports,7,0,davnn
-49817680,Rails World 2026 Opening Keynote [video],worldnews,440,501,an0malous
-49857899,I'm the mom in that viral Giants clip. Let me tell you about my husband,sports,594,237,minimaxir
-49836590,The Board Game of the Alpha Nerds (2014),sports,122,65,neonate
-49839664,What About Rails?,sports,331,234,jrochkind1
-49820065,A brief history of Windows scroll bar shortcuts,sports,179,120,tybulewicz
-49831968,F-Droid 2.0,science,1461,416,daveoc64
-49849141,How we learned to stop worrying and love campus surveillance,sports,264,139,cdrnsf
-49871556,Ask HN: What are people doing with their OpenClaw set ups now?,worldnews,12,5,will10pa
-49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",entertainment,6,0,bonguynvan
-49836374,Opus 5.5 is good at explainer videos,entertainment,424,222,iacguy
-49831098,Forging 1024-bit RSA signatures in nearly SNFS time [pdf],science,72,21,int0x29
-49845133,Factorio that you can touch,entertainment,359,125,ibobev
-49825642,Ideas on modernizing the open-source desktop,sports,405,538,signa11
-49802661,RAM: the forgotten history (2024),entertainment,121,6,Luc
-49872636,"Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern",sports,5,1,JEOFFEZZ
-49821438,Show HN: AgentRun: DSL to turn agents into workflows,sports,51,12,miguelrios
-49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,540,xnx
-49854216,The far side of the Moon provides clues to a previous magnetic field,science,24,1,croes
-49848095,Meta's Muse appears to use an OpenAI model labeled muse-special,science,143,50,Aeroi
-49801939,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",science,817,599,MC995
-49863062,"If we do not stop to help each other, what do we become?",sports,205,91,signa11
-49823108,Where's the Beef?: The lab-grown-meat revolution that wasn't,science,74,166,Hooke
-49857323,New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely,science,67,15,GordonS
-49875006,Maybe don't let Muse run your Facebook Marketplace account,sports,53,58,embedding-shape
-49872459,Why are the artists still starving?,science,5,4,Shawn_Something
-49817404,GPT-6 Astra has gained the ability to drive a car,science,316,249,plurby
-49819221,Italian parliament votes for return to nuclear energy,science,906,817,geox
-49861062,Palantir's Co-Founder Wants Us Less Judgmental About Deadly Iran School Strike,sports,92,31,cdrnsf
+import pandas as pd
+import numpy as np
+
+try:
+    df = pd.read_csv("data/trends_clean.csv")
+except Exception as e:
+    print(e)
+    exit()
+
+print(f"DataFrame Shape (Rows, Columns): {df.shape}")
+print(df.head())
+avg_score = df["score"].mean()
+avg_comments = df["num_comments"].mean()
+print(f"Avg Story Score: {avg_score:.2f}")
+print(f"Avg No of Comments: {avg_comments:.2f}")
+print(f"Mean value: {np.mean(df['score']):.2f}")
+print(f"Median : {np.median(df['score']):.2f}")
+print(f"Standard Deviation : {np.std(df['score']):.2f}")
+print(f"Maximum Score: {np.max(df['score'])}")
+print(f"Minimum Score: {np.min(df['score'])}")
+most_common_category = df["category"].value_counts().idxmax()
+print(f"Category with the most stories: {most_common_category.upper()}")
+top_commented_row = df.loc[df["num_comments"].idxmax()]
+print(f"Most commented story: '{top_commented_row['title']}'")
+print(f" -> Written by: {top_commented_row['author']} with {top_commented_row['num_comments']} comments.")
+df["engagement"] = df["num_comments"] / (df["score"] + 1)
+df["is_popular"] = df["score"] > avg_score
+df.to_csv("data/trends_analysed.csv", index=False)
