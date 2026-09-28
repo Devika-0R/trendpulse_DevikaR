@@ -1,0 +1,49 @@
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+
+try:
+    df = pd.read_csv("data/trends_analysed.csv")
+except Exception as e:
+    print(e)
+    exit()
+os.makedirs("outputs", exist_ok=True)
+# Top 10 stories
+top10 = df.nlargest(10, "score").sort_values("score")
+plt.figure(figsize=(10, 6))
+plt.barh(top10["title"].str[:45] + "...", top10["score"], color="skyblue")
+plt.xlabel("Hacker News Score", fontsize=11, fontweight="bold")
+plt.title("Top 10  News Stories by Score", fontsize=13, fontweight="bold", pad=15)
+plt.grid(axis="x", linestyle="--", alpha=0.5)
+plt.tight_layout()
+plt.show() 
+
+# Stories by Category
+category_counts = df["category"].value_counts()
+
+plt.figure(figsize=(8, 5))
+plt.bar(category_counts.index.str.upper(), category_counts.values, color="lightcoral")
+plt.xlabel("Category Group", fontsize=11, fontweight="bold")
+plt.ylabel("No of Stories", fontsize=11, fontweight="bold")
+plt.title("Total No of Stories per Category", fontsize=13, fontweight="bold", pad=15)
+plt.xticks(rotation=15)
+plt.ylim(0, 30)  
+plt.tight_layout()
+plt.show()
+
+# Score vs. Comments
+popular = df[df["is_popular"] == True]
+regular = df[df["is_popular"] == False]
+
+plt.figure(figsize=(9, 6))
+plt.scatter(regular["score"], regular["num_comments"], color="darkgray", alpha=0.7, label="Regular Stories")
+plt.scatter(popular["score"], popular["num_comments"], color="darkorange", alpha=0.9, s=80, label="Popular Stories (Above Average Score)")
+
+plt.xlabel("Story Score", fontsize=11, fontweight="bold")
+plt.ylabel("No of Comments", fontsize=11, fontweight="bold")
+plt.title("Score vs. Comments", fontsize=13, fontweight="bold", pad=15)
+plt.legend(loc="upper left")
+plt.grid(True, linestyle="--", alpha=0.4)
+plt.tight_layout()
+plt.show()
+
